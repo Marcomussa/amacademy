@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Galaxy-Store-1-hex { color: #F22786; }
+.Galaxy-Store-2-hex { color: #D914A4; }
+.Galaxy-Store-3-hex { color: #D50BD9; }
+.Galaxy-Store-4-hex { color: #BF07F2; }
+.Galaxy-Store-5-hex { color: #F25252; }
+
+/* Color Theme Swatches in RGBA */
+.Galaxy-Store-1-rgba { color: rgba(242, 39, 134, 1); }
+.Galaxy-Store-2-rgba { color: rgba(217, 20, 164, 1); }
+.Galaxy-Store-3-rgba { color: rgba(213, 11, 217, 1); }
+.Galaxy-Store-4-rgba { color: rgba(191, 7, 242, 1); }
+.Galaxy-Store-5-rgba { color: rgba(242, 82, 82, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Galaxy-Store-1-hsla { color: hsla(331, 88, 55, 1); }
+.Galaxy-Store-2-hsla { color: hsla(316, 83, 46, 1); }
+.Galaxy-Store-3-hsla { color: hsla(298, 90, 44, 1); }
+.Galaxy-Store-4-hsla { color: hsla(286, 94, 48, 1); }
+.Galaxy-Store-5-hsla { color: hsla(0, 86, 63, 1); }
