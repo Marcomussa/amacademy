@@ -1,3 +1,9 @@
+@import url('./fondo.css');
+@import url('./watchVideo.css');
+@import url('./carrousel.css');
+@import url('./color.css');
+@import url('./roadmap.css');
+
 p {
     margin-bottom: 0px;
 }
